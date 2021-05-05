@@ -1,0 +1,6 @@
+theme: geek
+
+deploy:
+  type: git
+  repo: https://github.com/lighthubs/lighthubs.github.io
+  branch: main
