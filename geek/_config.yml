@@ -1,0 +1,14 @@
+logo_title: GEEK light
+
+style: black
+
+favicon: /favicon.ico
+
+menu:
+  Github: https://github.com/thevvh
+
+valine:
+  enable: false
+
+highlight:
+  enable: false
