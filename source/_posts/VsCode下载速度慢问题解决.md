@@ -1,5 +1,5 @@
 ---
-title: 国内VsCode下载速度慢问题解决
+title: VsCode下载速度慢问题解决
 date: 2021-05-17 11:37:31
 tags:
 ---

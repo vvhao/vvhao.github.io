@@ -1,11 +1,11 @@
-logo_title: GEEK light
+logo_title: GEEK vvhao
 
 style: black
 
 favicon: /favicon.ico
 
 menu:
-  Github: https://github.com/thevvh
+  Github: https://github.com/vvhao
 
 valine:
   enable: false

@@ -1,5 +1,5 @@
 ---
-title: 在html页面中快速添加水印
+title: JavaScript快速添加水印
 date: 2021-06-03 20:43:39
 tags:
 ---

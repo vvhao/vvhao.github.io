@@ -1,5 +1,5 @@
 ---
-title: JavaScript中的Event Loop（事件循环）机制
+title: JavaScript中的事件循环机制
 date: 2021-05-06 13:27:15
 tags:
 ---

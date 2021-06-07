@@ -1,5 +1,5 @@
 ---
-title: VueCodemirror支持JSON配置
+title: VueCodemirror支持编辑JSON
 date: 2021-06-07 18:51:17
 tags:
 ---

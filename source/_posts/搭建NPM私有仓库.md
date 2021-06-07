@@ -1,5 +1,5 @@
 ---
-title: 前端工程化-使用Verdaccio搭建私有npm仓库
+title: 搭建NPM私有仓库
 date: 2021-05-06 13:29:59
 tags:
 ---
@@ -8,9 +8,9 @@ verdaccio github: [https://github.com/verdaccio/verdaccio](https://github.com/ve
 
 ## 先上效果图
 
-![image1](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fdb92bea840449a9a86880d35284c290~tplv-k3u1fbpfcp-watermark.image)
+![image1](/images/verdaccio_1.png)
 
-![image2](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/713a87c9982f464bbb0c2c61a58da913~tplv-k3u1fbpfcp-watermark.image)
+![image1](/images/verdaccio_2.png)
 
 ## 安装
 
