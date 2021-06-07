@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878daf6e-364b-4e01-93cf-779a612880c9" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/国内VsCode下载速度慢问题解决.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/vscode_download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/images/vscode_logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1620273307188</updated>
       <workItem from="1620273308316" duration="322000" />
-      <workItem from="1621222558975" duration="880000" />
+      <workItem from="1621222558975" duration="998000" />
+      <workItem from="1623059597721" duration="3155000" />
     </task>
     <servers />
   </component>
