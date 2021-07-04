@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878daf6e-364b-4e01-93cf-779a612880c9" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/Hexo博客编译问题.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +55,8 @@
       <workItem from="1621222558975" duration="998000" />
       <workItem from="1623059597721" duration="3831000" />
       <workItem from="1623117620023" duration="863000" />
-      <workItem from="1623309757053" duration="4438000" />
+      <workItem from="1623309757053" duration="4475000" />
+      <workItem from="1625299696244" duration="9743000" />
     </task>
     <servers />
   </component>
