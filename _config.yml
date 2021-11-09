@@ -4,5 +4,5 @@ theme: geek
 
 deploy:
   type: git
-  repo: https://github.com/vvhao/vvhao.github.io
+  repo: git@github.com:vvhao/vvhao.github.io.git
   branch: main
